@@ -80,7 +80,7 @@ DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,10155.com
 
 # edu域名
-DOMAIN-SUFFIX,edu.cn
+DOMAIN-KEYWORD,edu.cn
 
 # 自定义域名
 DOMAIN-SUFFIX,wanmeiqiye.com
