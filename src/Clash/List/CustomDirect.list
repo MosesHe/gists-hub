@@ -79,6 +79,15 @@ DOMAIN-SUFFIX,wxlivecdn.com
 DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,10155.com
 
+# edu域名
+DOMAIN-SUFFIX,edu.cn
+
+# 自定义域名
+DOMAIN-SUFFIX,wanmeiqiye.com
+DOMAIN-SUFFIX,qianjiapp.com
+DOMAIN-SUFFIX,ninebot.com
+DOMAIN-SUFFIX,ujing.online
+
 DOMAIN,lainbo.com
 DOMAIN,talk.lainbo.com
 DOMAIN,ghproxy.lainbo.com
